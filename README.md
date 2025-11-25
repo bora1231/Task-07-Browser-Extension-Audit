@@ -1,7 +1,7 @@
 # Task 7 – Identify and Remove Suspicious Browser Extensions
 
 ## 📌 Objective
-To identify potentially harmful browser extensions, review their permissions, and remove suspicious or unnecessary add-ons to improve browser security and browsing performance.
+To identify potentially harmful browser extensions, review their permissions, and remove suspicious or unnecessary add-ons to enhance browser security and browsing performance.
 
 ---
 
@@ -13,90 +13,87 @@ To identify potentially harmful browser extensions, review their permissions, an
 ## 📋 Steps I Followed
 
 ### **1. Opened Chrome’s Extension Manager**
-- Went to: Menu (⋮) → Extensions → Manage Extensions
+- Navigated to: Menu (⋮) → Extensions → Manage Extensions
 
 ### **2. Reviewed All Installed Extensions**
-I checked each extension for:
-- Developer authenticity  
-- Reviews and ratings  
-- Permission requests  
-- Whether I intentionally installed it  
-- Any unusual behaviour like ads, redirects, or pop-ups  
+Since my extensions list was empty, I verified that:
+- No unknown extensions were installed  
+- No extensions with high permissions were present  
+- No add-ons were affecting browser performance or security  
 
-### **3. Identified Unused or Suspicious Extensions**
+### **3. Checked for Suspicious or Unused Extensions**
 I looked for:
 - Unknown developers  
-- Extensions I didn’t remember installing  
-- Too many permissions (e.g., “read and change all your data”)  
-- Low-rated or untrusted add-ons  
+- Extensions requiring excessive permissions  
+- Add-ons I didn’t remember installing  
 
-### **4. Removed Suspicious / Unnecessary Extensions**
-Used the **Remove** button to delete anything unsafe or unused.
+Since the list was empty, there were **no suspicious or unused extensions** to review.
+
+### **4. Removed Extensions (If Needed)**
+No extensions were installed, so **no removal was necessary**.
 
 ### **5. Restarted the Browser**
-Checked if:
-- Performance improved  
-- Redirect issues stopped  
-- No unexpected ads appeared  
+Restarted Chrome to ensure:
+- No hidden extensions were still active  
+- Smooth and stable performance  
 
 ### **6. Researched How Malicious Extensions Work**
-Learned how harmful add-ons affect privacy and browser safety.
+Understood how malicious browser add-ons can compromise privacy, hijack search pages, or inject unwanted advertisements.
 
 ---
 
 ## 🔍 Suspicious Extensions Found
 
-*(Choose the correct one for your task before submitting)*
+### **✔ Option Used — No Suspicious Extensions Found**
+My browser had **no extensions installed**, so:
+- No harmful add-ons were detected  
+- No extensions required removal  
 
-### **Option A — No Suspicious Extensions Found**
-No harmful or unknown extensions were found.  
-I still removed unused ones to maintain security.
-
-**OR**
-
-### **Option B — Suspicious Extension Found**
-- **Name:** `<extension name>`  
-- **Issue Identified:** `<reason>`  
-- **Action Taken:** Removed for safety.  
+The empty extension page confirms that the browser was in a clean and secure state.
 
 ---
 
 ## ⚠️ Risks of Malicious Browser Extensions
-Malicious extensions can:
-
+Malicious or poorly coded extensions can:
 - Track browsing activity  
-- Steal login data or cookies  
-- Inject ads or redirect search results  
-- Log keystrokes  
-- Install malware/crypto miners  
-- Modify homepage or search engine  
-- Sell user data to advertisers  
+- Steal cookies or login details  
+- Inject ads and pop-ups  
+- Redirect search results  
+- Record keystrokes  
+- Install hidden malware or crypto-miners  
+- Change homepage or search engine settings  
+- Sell user data to third-party advertisers  
 
-This highlights why extension audits are important.
+This shows why extension audits are important.
 
 ---
 
 ## 🎯 Outcome
-From this task, I learned to:
-
-- Inspect and evaluate Chrome extensions  
-- Identify red flags in permissions  
-- Recognize suspicious or unsafe add-ons  
-- Maintain a clean and secure browser environment  
+From this task, I learned:
+- How to access and review Chrome extensions  
+- How to identify potential red flags  
+- How browser extensions can affect security  
+- The importance of maintaining a clean extension list  
 
 ---
 
 ## 📸 Screenshots Included
 All screenshots are saved in the **Screenshots/** folder:
 
-1. **extensions-page.png** — All installed Chrome extensions  
-2. **suspicious-extension.png** — Suspicious extension (if any)  
-3. **after-removal.png** — Extensions after cleanup  
+1. **extensions-page.png**  
+   – Shows that the Chrome extensions list was empty.
+
+2. **suspicious-extension.png**  
+   – Since no suspicious extensions were found, this screenshot repeats the same empty extensions page.
+
+3. **after-removal.png**  
+   – As no extensions were installed, the browser looked the same after the audit.
 
 ---
 
 ## 📝 Submission
-This repository includes:
-- README.md (full documentation)  
-- Screenshots folder (all required proof)
+This repository contains:
+- README.md (full explanation of the audit process)  
+- Screenshots folder (all required images)  
 
+This completes Task 7 as per the submission guidelines.
